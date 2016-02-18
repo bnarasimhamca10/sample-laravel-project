@@ -1,0 +1,13 @@
+{
+    "name": "vevegam/questions",
+    "description": "Questions module",
+    "type": "Addon",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vevegam",
+            "email": "vevegam@vevegam.com"
+        }
+    ],
+    "require": {}
+}

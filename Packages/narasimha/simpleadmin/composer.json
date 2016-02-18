@@ -1,0 +1,27 @@
+{
+    "name": "vevegam/questions",
+    "description": "Questions module",
+    "type": "Addon",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vevegam",
+            "email": "vevegam@vevegam.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+            "src/controllers"
+        ],
+        "psr-4": {
+            "Narasimha\\SimpleAdmin": "src/"
+        },
+        "psr-0": {
+            "Narasimha\\SimpleAdmin": "src/"
+        }
+
+    },
+    "minimum-stability": "dev"
+ }
